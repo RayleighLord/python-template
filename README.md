@@ -1,4 +1,4 @@
-# Pinnopt: Neural Networks for Optimal Control
+# Python Project Template
 
 To use the repository, use in a terminal:
 
